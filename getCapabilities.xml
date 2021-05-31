@@ -137,7 +137,7 @@
 				<Title>base_hientrangchitiet_single</Title>
 				<Abstract>GH:base_hientrangchitiet_single ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="105.77593652639571" miny="21.20837709169243" maxx="105.82800327821714" maxy="21.23236494438205"></LatLonBoundingBox>
